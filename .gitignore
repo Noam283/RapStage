@@ -1,0 +1,4 @@
+.DS_store
+secrets.txt
+# Pour un commentaire et ignore tous les fichiers log
+*.log
